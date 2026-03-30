@@ -16,7 +16,7 @@ ENV/
 
 # Logs
 *.log
-DreamXlogs.txt
+TechifyBots.txt
 
 # OS Generated Files
 .DS_Store
