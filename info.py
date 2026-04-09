@@ -14,7 +14,7 @@ def is_enabled(value, default):
         return default
 
 SESSION = environ.get('SESSION', 'techifybots')
-API_ID = int(environ.get('API_ID', ''))
+API_ID = environ.get('API_ID', '')
 API_HASH = environ.get('API_HASH', '')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
