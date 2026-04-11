@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TechifyBots | {{file_name}}</title>
+    <title>TheOrviX | {{file_name}}</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -926,12 +926,12 @@
 
     <header class="header">
         <div class="header-content">
-            <a href="https://telegram.me/ComicArc" class="logo"> Techify Bots </a>
+            <a href="https://telegram.me/TheOrviX" class="logo"> TheOrviX </a>
 
             <nav class="nav">
                 <a href="#video-section">Stream</a>
                 <a href="#explore">Explore</a>
-                <a href="https://telegram.me/CallOwnerBot">Contact</a>
+                <a href="https://telegram.me/TheOrviz">Contact</a>
             </nav>
 
             <button class="mobile-menu">
@@ -1062,24 +1062,24 @@
                         channels
                     </p>
                     <div class="card-links">
-                        <a href="https://telegram.me/ComicArc" class="card-link">
-                            <span>Comic Arc</span>
+                        <a href="https://telegram.me/OrvixMovies" class="card-link">
+                            <span>Orvix Movies</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <!-- <a href="https://telegram.me/ComicArc" class="card-link">
-                            <span>Techify Bots</span>
+                        <!-- <a href="https://telegram.me/TheOrviX" class="card-link">
+                            <span>TheOrviX</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a> -->
-                        <a href="https://telegram.me/Techifybots" class="card-link">
-                            <span>Techify Bots</span>
+                        <a href="https://telegram.me/TheOrviX" class="card-link">
+                            <span>TheOrviX</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -1102,7 +1102,7 @@
                         Intelligent bots for enhanced streaming and automated assistance
                     </p>
                     <div class="card-links">
-                        <a href="https://telegram.me/QuickAcceptBot" class="card-link">
+                        <a href="https://telegram.me/AutoAcceptProXBot" class="card-link">
                             <span>Approve Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
@@ -1110,24 +1110,24 @@
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/AdvanceCaptionBot" class="card-link">
-                            <span>Caption Bot</span>
+                        <a href="https://telegram.me/FilesToLinkOBot" class="card-link">
+                            <span>File Stream Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/AutoSequenceBot" class="card-link">
-                            <span>Sequence Bot</span>
+                        <a href="https://telegram.me/FilesUnzipOBot" class="card-link">
+                            <span>Unzip Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/YukiAssistBot" class="card-link">
-                            <span>Multi Tasking Bot</span>
+                        <a href="https://telegram.me/SaveORestrictedBot" class="card-link">
+                            <span>Save Restricted Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -1143,7 +1143,7 @@
 
     <footer class="footer">
         <p>
-            &copy; 2026 <a href="https://telegram.me/TechifyBots">TechifyBots</a>. All Rights
+            &copy; 2026 <a href="https://telegram.me/TheOrviX">TheOrviX</a>. All Rights
             Reserved.
         </p>
     </footer>
