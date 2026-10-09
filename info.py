@@ -43,7 +43,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'files')
 MULTIPLE_DB = is_enabled(os.environ.get('MULTIPLE_DB', "True"), True)
 DATABASE_URI2 = environ.get('DATABASE_URI2', "")
 
-UPDATE_NOTIFICATION = bool(environ.get('UPDATE_NOTIFICATION', True))
+UPDATE_NOTIFICATION = bool(environ.get('UPDATE_NOTIFICATION', False))
 UPDATE_CHANNEL = int(environ.get('UPDATE_CHANNEL', '-1004409563776'))
 IMAGE_FETCH = bool(environ.get('IMAGE_FETCH', True))
 LINK_PREVIEW = bool(environ.get('LINK_PREVIEW', False))
